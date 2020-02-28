@@ -21,7 +21,7 @@
                                 <StackLayout Spacing="8">
                                     <StackLayout Orientation="Horizontal">
                                         <Image Source="{Binding Url}" Aspect="AspectFit" HeightRequest="75" WidthRequest="75" HorizontalOptions="Start"/>
-                                        <Label Text="{Binding MemeName}" HorizontalOptions="Center" FontSize="20" TextColor="Black"/>
+                                        <Label Text="{Binding contactName}" HorizontalOptions="Center" FontSize="20" TextColor="Black"/>
                                         <Label Text="Call" HorizontalOptions="EndAndExpand" FontSize="20" TextColor="Green" FontAttributes="Bold"/>
                                         <Image Source="phone.png" Aspect="AspectFit" HeightRequest="75" WidthRequest="75" HorizontalOptions="End"/>
                                     </StackLayout>
