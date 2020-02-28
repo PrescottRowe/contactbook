@@ -1,0 +1,12 @@
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\LAB2_ListView_Cells.AssemblyInfoInputs.cache
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\LAB2_ListView_Cells.AssemblyInfo.cs
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\LAB2_ListView_Cells.dll
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\ref\LAB2_ListView_Cells.dll
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\LAB2_ListView_Cells.pdb
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\bin\Debug\netstandard2.0\LAB2_ListView_Cells.deps.json
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\bin\Debug\netstandard2.0\LAB2_ListView_Cells.dll
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\bin\Debug\netstandard2.0\ref\LAB2_ListView_Cells.dll
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\bin\Debug\netstandard2.0\LAB2_ListView_Cells.pdb
+C:\Users\presc\source\repos\LAB2_ListView_Cells\LAB2_ListView_Cells\LAB2_ListView_Cells\obj\Debug\netstandard2.0\XamlC.stamp

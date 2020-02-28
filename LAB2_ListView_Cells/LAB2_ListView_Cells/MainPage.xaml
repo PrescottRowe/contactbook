@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LAB2_ListView_Cells.MainPage">
+
+    <ContentPage.Content>
+
+        <StackLayout Spacing="5">
+
+            <ListView x:Name="ListViewList" IsPullToRefreshEnabled="True" RowHeight="100">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Contacts"/>
+                            </ViewCell.ContextActions>
+                            <ViewCell.View >
+                                <StackLayout Spacing="8">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Image Source="{Binding Url}" Aspect="AspectFit" HeightRequest="75" WidthRequest="75" HorizontalOptions="Start"/>
+                                        <Label Text="{Binding MemeName}" HorizontalOptions="Center" FontSize="20" TextColor="Black"/>
+                                        <Label Text="Call" HorizontalOptions="EndAndExpand" FontSize="20" TextColor="Green" FontAttributes="Bold"/>
+                                        <Image Source="phone.png" Aspect="AspectFit" HeightRequest="75" WidthRequest="75" HorizontalOptions="End"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
